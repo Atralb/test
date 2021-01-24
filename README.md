@@ -5,4 +5,4 @@
 
 
 
-```diff\\n - red \\n``` text
+```diff \\n - red \\n``` text
