@@ -7,4 +7,4 @@
 
 ```diff
 - red
-```
+``` text
