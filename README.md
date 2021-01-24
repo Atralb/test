@@ -7,9 +7,4 @@
 
 ```diff
 - red
-+ green
-! orange
-# gray
 ```
-
-</h2>
