@@ -6,5 +6,4 @@
 
 
 ```diff
-- red
-text
+- red \n text
